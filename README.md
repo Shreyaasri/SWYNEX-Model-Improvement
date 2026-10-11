@@ -42,4 +42,5 @@ This project demonstrates the use of cross-validation and hyperparameter tuning 
 
 ## Author
 Shreya Kumari
+
 Machine Learning Internship Task — SWYNEX Technologies
